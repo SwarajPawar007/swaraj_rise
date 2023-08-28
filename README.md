@@ -2,5 +2,5 @@
 this is branch 2
 
 to commit the changes
-to commit changes in the workbench
+to resolve conflict
 to commit changes commit 3
